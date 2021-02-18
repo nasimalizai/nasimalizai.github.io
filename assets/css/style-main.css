@@ -216,21 +216,21 @@ h6{font-family: 'Oswald', sans-serif!important;}
 /* .mt-25{margin-top:25px;} */
 .intetst-box i.fa {
     font-size: 36px;
-    color: #fff;
+    color: black;
     text-align: center;
 }
 .intetst-icons {
-    color: #fff;
+    color: black;
     text-align: center;    
     margin-bottom: 19px;
-    margin-left: -33px;
+    /* margin-left: -33px; */
 }
 .intetst-icons h5 {
     font-size: 14px;
     letter-spacing: 2px;
     font-weight: normal;
     text-transform: uppercase;
-    color: white;
+    color: black;
 }
 .eduction-right {
     display: inline-block;
